@@ -1,0 +1,25 @@
+{
+  "name": "youtube-webcrawler-04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diariodonoob/youtube-webcrawler-04.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diariodonoob/youtube-webcrawler-04/issues"
+  },
+  "homepage": "https://github.com/diariodonoob/youtube-webcrawler-04#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "dotenv": "^6.0.0"
+  }
+}
